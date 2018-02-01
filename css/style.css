@@ -45,17 +45,6 @@ h6 {
     border-style: solid;
     border-radius: 25%;
   }
-.white-back {
-  background-color: #FFFFFF;
-  padding: 10px 10px 10px 10px;
-}
-.about-img { 
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 50px;
-    background: url('https://cdn.pixabay.com/photo/2017/05/15/08/28/tree-2314055_960_720.jpg') center;
-    background-size: cover;
-    height: 650px;
-}
 #footer {
 	background-color: #4D82C8;
     height:25px;
